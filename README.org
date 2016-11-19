@@ -1,5 +1,5 @@
 
-* Post Installation Steps
+* Post Installation steps
 
   1. Set http_proxy, https_proxy and no_proxy in /etc/profile .
 #+BEGIN_EXAMPLE
